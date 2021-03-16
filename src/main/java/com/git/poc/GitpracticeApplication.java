@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitpracticeApplication {
 	public static final String REST_URL="";
+	String name="Dashrath";
 	public static int a=10;
 
     public static void main(String[] args) {
